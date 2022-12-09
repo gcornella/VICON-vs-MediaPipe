@@ -1,7 +1,6 @@
 # VICON-vs-MediaPipe
-*This project has been developed by members of the BioRobotics Lab @luisgarcia and @guillemcornella, both Ph.D. students at the University of California Irvine.*
 
-Abstract—This project aims to compare the performance of two different camera-based approaches to analyze lowerbody joint degrees. The comparison is between the VICON motion-capture system and the computer vision-based MediaPipe framework implemented in Python. A GUI has been designed to provide physically impaired individuals with rehabilitation exercises that can be performed from home and exclusively with a smartphone.
+**Abstract—** This project aims to compare the performance of two different camera-based approaches to analyze lowerbody joint degrees. The comparison is between the [VICON](https://www.vicon.com/about-us/what-is-motion-capture/) motion-capture system and the computer vision-based [MediaPipe](https://github.com/google/mediapipe) framework implemented in Python. A GUI has been designed to provide physically impaired individuals with rehabilitation exercises that can be performed from home and exclusively with a smartphone.
 
 ## Installation
 Download the folder to your preferred directory,
@@ -41,3 +40,5 @@ Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
 
 If you have any suggestions or would like to know more about the experiment, please read the attached .pdf report, and feel free to contact me for further details.
+
+*This project has been developed by members of the BioRobotics Lab @luisgarcia and @guillemcornella, both Ph.D. students at the University of California Irvine.*

@@ -1,0 +1,1 @@
+This folder should include all your videos in .mp4 format
